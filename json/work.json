@@ -1,0 +1,15 @@
+var work = {"jobs":[{
+     "employer": "Alatec Inc.",
+     "title": "Combat Simulation Developer",
+     "location": "US",
+     "dates": "in progress",
+     "description": "C++ Programming Modeling and Simulations" },
+     {
+     "employer": "Midnight Studios Inc.",
+     "title": "Software Engineer III",
+     "location": "Austin, Texas",
+     "dates": "Oct 2013 - May 2015",
+     "description": "Fullstack Programming, User Interface Programming, Gameplay Programming" }
+     ],
+     "display":{}
+};

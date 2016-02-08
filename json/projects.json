@@ -1,0 +1,8 @@
+var projects =
+	[{
+      "title": "I Can Has A Lazer", 
+      "dates": "2013-Present",
+      "description": "The best 3D Lazer Pointer Cat Game on the Internet!",
+      "images": ["",""],
+      "display": {}
+      }];

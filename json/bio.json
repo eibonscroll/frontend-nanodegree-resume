@@ -1,0 +1,15 @@
+var bio = {
+	"name" : "Michael Purvis",
+	"role" : "Programmer",
+	"contacts" : {
+	      "mobile": "(512) 418-6316",
+	      "email": "mikegpurvis@gmail.com",
+	      "github": "eibonscroll",
+	      "twitter": "@MichaelGPurvis",
+	      "blog": "mike-purvis.com",
+	      "location": "Texas" },
+	"welcomeMessage": "Experienced Programmer",
+	"skills": ["C++","C#","Javascript","HTML", "CSS","GamePlay Programming","FrontEnd Programming", "Modeling and Simulations"],
+	"biopic": "./images/pic.jpg",
+	"display": {}
+};

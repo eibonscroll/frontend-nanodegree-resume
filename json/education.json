@@ -1,0 +1,16 @@
+var education = {
+     "schools": [{
+          "name": "Art Institutes of California, San Francisco",
+          "location": "",
+          "degree": "",
+          "majors": ["B.S. Visual and Game Programming"],
+          "dates": "Sep 2005-Dec 2008",
+          "url": "ai.com"}],
+"onlineCourses": [{
+     "title": "string",
+     "school": "string",
+     "date": "",
+     "url": "string"}
+     ],
+"display": {}
+};
